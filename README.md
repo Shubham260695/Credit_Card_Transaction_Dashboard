@@ -42,7 +42,7 @@ The goal of this dashboard is to provide clear, data-driven insights into:
 
 ---
 
-## 🧠 **Business Value**
+##  **Business Value**
 
 This dashboard helps financial institutions:
 
