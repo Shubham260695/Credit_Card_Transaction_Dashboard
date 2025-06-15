@@ -1,10 +1,10 @@
-# 💳 Credit Card Transaction Report — Power BI Dashboard
+# Credit Card Transaction Report — Power BI Dashboard
 
 This project showcases a Power BI dashboard designed to analyze **credit card transaction data** for a financial institution. The dashboard delivers actionable insights into customer spending behavior, card performance, and transaction trends, helping businesses make informed strategic decisions.
 
 ---
 
-## 🧾 **Objective**
+## **Objective**
 
 The goal of this dashboard is to provide clear, data-driven insights into:
 
@@ -15,13 +15,13 @@ The goal of this dashboard is to provide clear, data-driven insights into:
 
 ---
 
-## 📊 **Dashboard Highlights**
+## **Dashboard Highlights**
 
 ![Dashboard Preview](./Credit_card_transaction_dashboard.png)
 
 ---
 
-### 🔥 **Key Insights**
+### **Key Insights**
 
 - **Total Revenue Generated:** 55M  
 - **Total Interest Earned:** 7.84M  
@@ -30,15 +30,15 @@ The goal of this dashboard is to provide clear, data-driven insights into:
 
 ---
 
-### 📌 **Visual Breakdown**
+### **Visual Breakdown**
 
-- 💡 **KPI Cards**: At-a-glance view of major financial metrics.
-- 📋 **Category Tables**: Revenue, Total Transaction Amount, and Interest Earned by card type (Blue, Silver, Gold, Platinum).
-- 📈 **Quarterly Analysis**: Bar & line combo chart for revenue and transaction volumes (Q1 - Q4).
-- 💳 **Revenue by Card Type**: Swipe, Chip, Online.
-- 🧾 **Revenue by Expenditure Type**: Bills, Entertainment, Fuel, Grocery, Food, Travel.
-- 🎓 **Revenue by Education Level**.
-- 💼 **Revenue by Job Category**.
+-  **KPI Cards**: At-a-glance view of major financial metrics.
+-  **Category Tables**: Revenue, Total Transaction Amount, and Interest Earned by card type (Blue, Silver, Gold, Platinum).
+-  **Quarterly Analysis**: Bar & line combo chart for revenue and transaction volumes (Q1 - Q4).
+-  **Revenue by Card Type**: Swipe, Chip, Online.
+-  **Revenue by Expenditure Type**: Bills, Entertainment, Fuel, Grocery, Food, Travel.
+-  **Revenue by Education Level**.
+-  **Revenue by Job Category**.
 
 ---
 
